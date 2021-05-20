@@ -5,11 +5,16 @@
     <string name="main_title">Calculadora Saudável</string>
     <string name="text_fazer_hoje">O que você deseja fazer hoje?</string>
 
-    <string-array name="estados">
-        <item>São Paulo</item>
-        <item>Pernanbuco</item>
-        <item>Ceará</item>
-        <item>Minas Geriais</item>
-        <item>Bahia</item>
+    <string-array name="nivelAtividade">
+        <item>Nenhuma</item>
+        <item>Atividade leve </item>
+        <item>Atividade moderada </item>
+        <item>Atividade intensa </item>
+    </string-array>
+
+    <string-array name="faixaEtaria">
+        <item>Entre 18 a 30 anos </item>
+        <item>Entre 31 a 60 ano</item>
+        <item>Acima de 60 anos</item>
     </string-array>
 </resources>
